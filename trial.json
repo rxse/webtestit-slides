@@ -1,0 +1,18 @@
+[{
+  "addons": "Buy now and save 50%",
+  "caption": "Calling All You Early Birds!",
+  "clickEvent": "openBuyNowLink",
+  "image": "assets/bird-with-price-bg.png",
+  "subCaption": "Get 50% off for your first year",
+  "text": "To celebrate the release of Ranorex Webtestit, we’re offering all you early birds 50% off the regular price of a Ranorex Webtestit license for the first year by using the discount code <span class=\"welcome-panel-content__slider-slick-slide-earlybird-code\">EARLYBIRD2019</span>.",
+  "url": ""
+},
+{
+  "addons": "Get Ranorex Selocity for free",
+  "caption": "Improve your workflow",
+  "subCaption": "",
+  "clickEvent": "openExtensionLink",
+  "image": "assets/slider-bg-1.png",
+  "text": "Install and connect the Ranorex Selocity extension for Google Chrome to send elements directly from your browser to Ranorex Webtestit.",
+  "url": ""
+}]
